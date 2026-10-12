@@ -4,7 +4,7 @@ Una revisión puntual y de solo lectura de los archivos de una web WordPress. Co
 
 [Read in English](README.md)
 
-Nació después de encontrar un kit de phishing y tres webshells que llevaban más de cinco años dentro de una web WordPress que estaba siempre actualizada. La historia completa está en [este artículo de Ayuda WordPress](ENLAZAR-POST), y cada comprobación de la herramienta sale de algo que apareció en ese caso.
+Nació después de encontrar un kit de phishing y tres webshells que llevaban más de cinco años dentro de una web WordPress que estaba siempre actualizada. La historia completa está en [este artículo de Ayuda WordPress](https://ayudawp.com/alojando-phishing/), y cada comprobación de la herramienta sale de algo que apareció en ese caso.
 
 ![Página de resultados con el resumen y los primeros avisos](screenshots/revision-archivos-resumen-avisos.png)
 
