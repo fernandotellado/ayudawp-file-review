@@ -4,7 +4,7 @@ A one-off, read-only review of the files of a WordPress site. It compares the co
 
 [Leer en español](README.es.md)
 
-It was written after finding a phishing kit and three webshells that had been living for more than five years inside a WordPress site that was always up to date. The whole story is in [this post on Ayuda WordPress](ENLAZAR-POST). Every check in this tool comes from something found in that case.
+It was written after finding a phishing kit and three webshells that had been living for more than five years inside a WordPress site that was always up to date. The whole story is in [this post on Ayuda WordPress](https://ayudawp.com/alojando-phishing/). Every check in this tool comes from something found in that case.
 
 ![Results page with the summary and the first findings](screenshots/revision-archivos-resumen-avisos.png)
 
